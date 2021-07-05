@@ -1,0 +1,36 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1920px" height="1060px" viewBox="0 0 1920 1060">
+<defs>
+<image id="background_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/background_png.png"/>
+
+<image id="road_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/road_png.png"/>
+
+<image id="sun_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/sun_png.png"/>
+
+<image id="Cloud_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/Cloud_png.png"/>
+
+<image id="plane_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/plane_png.png"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 3,1) ">
+<use xlink:href="#background_png"/>
+</g>
+
+<g transform="matrix( 0.99578857421875, 0, 0, 1, 6,2) ">
+<use xlink:href="#road_png"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 964.7,-22.1) ">
+<g transform="matrix( 1, 0, 0, 1, -960,-530) ">
+<use xlink:href="#sun_png"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 3,7) ">
+<use xlink:href="#Cloud_png"/>
+</g>
+
+<g transform="matrix( 0.9999847412109375, 0, 0.007293701171875, 1.00701904296875, 1.25,10.8) ">
+<use xlink:href="#plane_png"/>
+</g>
+</svg>

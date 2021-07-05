@@ -1,0 +1,70 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1920px" height="1060px" viewBox="0 0 1920 1060">
+<defs>
+<image id="background_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/background_png.png"/>
+
+<image id="road_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/road_png.png"/>
+
+<image id="sun_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/sun_png.png"/>
+
+<image id="circle_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/circle_png.png"/>
+
+<image id="human_biker_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/human_biker_png.png"/>
+
+<image id="Cloud_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/Cloud_png.png"/>
+
+<image id="biker_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/biker_png.png"/>
+
+<image id="Text_frame_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/Text_frame_png.png"/>
+
+<image id="plane_png" x="0" y="0" width="1920" height="1060" xlink:href="./images/plane_png.png"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 3,1) ">
+<use xlink:href="#background_png"/>
+</g>
+
+<g transform="matrix( 0.99578857421875, 0, 0, 1, 6,2) ">
+<use xlink:href="#road_png"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 961,548) ">
+<g transform="matrix( 1, 0, 0, 1, -960,-530) ">
+<use xlink:href="#sun_png"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 872,596.55) ">
+<g transform="matrix( 0.931243896484375, 0, 0, 0.931243896484375, -894,-493.55) ">
+<use xlink:href="#circle_png"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 892.25,581.7) ">
+<g transform="matrix( 0.97113037109375, 0, 0, 0.97113037109375, -932.25,-514.7) ">
+<use xlink:href="#human_biker_png"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 3,7) ">
+<use xlink:href="#Cloud_png"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 948.7,508.75) ">
+<g transform="matrix( 1.0210113525390625, 0.076507568359375, -0.0698699951171875, 0.932464599609375, -943.15,-567.65) ">
+<use xlink:href="#biker_png"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 1240.75,497.8) ">
+<g transform="matrix( 1, 0, 0, 1, -960,-530) ">
+<use xlink:href="#Text_frame_png"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 965.1,544.5) ">
+<g transform="matrix( 0.9999847412109375, 0, 0.007293701171875, 1.00701904296875, -963.85,-533.7) ">
+<use xlink:href="#plane_png"/>
+</g>
+</g>
+</svg>
